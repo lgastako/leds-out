@@ -1,14 +1,12 @@
 # leds-out
 
-A Clojure library designed to ... well, that part is up to you.
+A reimagining of https://en.wikipedia.org/wiki/Lights_Out_(game) in Clojure
+using overtone to harness the Novatio Launchpad S as a UI.
 
 ## Usage
 
-FIXME
+   lein run
 
 ## License
 
-Copyright © 2013 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Public Domain.
